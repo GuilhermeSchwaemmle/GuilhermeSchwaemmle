@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Welcome to my github! My name is Guilherme Augusto Schwaemmle, I am 18 and I am a fullstack developer apprentice from Brazil.
+### Welcome to my github! My name is Guilherme Augusto Schwaemmle, I'm 18, and I'm a fullstack developer apprentice from Brazil.
 
 
 <div align="center">
